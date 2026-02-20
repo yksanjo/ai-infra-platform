@@ -1,0 +1,9 @@
+{
+  "name": "@ai-infra/forecasting-pipelines",
+  "version": "1.0.0",
+  "description": "pipelines for forecasting - Time series forecasting",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "Yoshi Kondo",
+  "license": "MIT"
+}

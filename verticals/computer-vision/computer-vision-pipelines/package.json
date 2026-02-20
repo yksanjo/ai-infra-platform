@@ -1,0 +1,9 @@
+{
+  "name": "@ai-infra/computer-vision-pipelines",
+  "version": "1.0.0",
+  "description": "pipelines for computer-vision - CV models and image processing",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "Yoshi Kondo",
+  "license": "MIT"
+}

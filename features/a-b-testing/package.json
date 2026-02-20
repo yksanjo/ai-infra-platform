@@ -1,0 +1,14 @@
+{
+  "name": "@ai-infra/a-b-testing",
+  "version": "1.0.0",
+  "description": "A/B testing framework for models",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "keywords": ["ai", "infrastructure", "a-b-testing"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

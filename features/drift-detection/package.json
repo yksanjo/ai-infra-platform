@@ -1,0 +1,14 @@
+{
+  "name": "@ai-infra/drift-detection",
+  "version": "1.0.0",
+  "description": "Data and model drift detection",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "keywords": ["ai", "infrastructure", "drift-detection"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

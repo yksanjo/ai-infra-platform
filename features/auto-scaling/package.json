@@ -1,0 +1,14 @@
+{
+  "name": "@ai-infra/auto-scaling",
+  "version": "1.0.0",
+  "description": "Automatic scaling for ML workloads",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "keywords": ["ai", "infrastructure", "auto-scaling"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

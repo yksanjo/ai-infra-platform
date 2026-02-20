@@ -1,0 +1,9 @@
+{
+  "name": "@ai-infra/speech-audio-connectors",
+  "version": "1.0.0",
+  "description": "connectors for speech-audio - Speech and audio processing",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "Yoshi Kondo",
+  "license": "MIT"
+}

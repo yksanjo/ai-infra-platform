@@ -1,0 +1,14 @@
+{
+  "name": "@ai-infra/distributed-training",
+  "version": "1.0.0",
+  "description": "Distributed training coordination",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "keywords": ["ai", "infrastructure", "distributed-training"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

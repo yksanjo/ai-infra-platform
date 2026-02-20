@@ -1,0 +1,9 @@
+{
+  "name": "@ai-infra/computer-vision-api",
+  "version": "1.0.0",
+  "description": "api for computer-vision - CV models and image processing",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "Yoshi Kondo",
+  "license": "MIT"
+}

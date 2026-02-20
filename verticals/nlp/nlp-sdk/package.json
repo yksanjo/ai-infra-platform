@@ -1,0 +1,9 @@
+{
+  "name": "@ai-infra/nlp-sdk",
+  "version": "1.0.0",
+  "description": "sdk for nlp - NLP and language models",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "Yoshi Kondo",
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@ai-infra/speech-audio-pipelines",
+  "version": "1.0.0",
+  "description": "pipelines for speech-audio - Speech and audio processing",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "Yoshi Kondo",
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@ai-infra/reinforcement-learning-models",
+  "version": "1.0.0",
+  "description": "models for reinforcement-learning - RL training and deployment",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "Yoshi Kondo",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@ai-infra/hyperparameter-tuning",
+  "version": "1.0.0",
+  "description": "Automated hyperparameter optimization",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "keywords": ["ai", "infrastructure", "hyperparameter-tuning"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

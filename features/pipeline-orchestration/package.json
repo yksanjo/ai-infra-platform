@@ -1,0 +1,14 @@
+{
+  "name": "@ai-infra/pipeline-orchestration",
+  "version": "1.0.0",
+  "description": "ML pipeline orchestration",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "keywords": ["ai", "infrastructure", "pipeline-orchestration"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

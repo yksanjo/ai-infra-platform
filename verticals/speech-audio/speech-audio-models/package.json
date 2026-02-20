@@ -1,0 +1,9 @@
+{
+  "name": "@ai-infra/speech-audio-models",
+  "version": "1.0.0",
+  "description": "models for speech-audio - Speech and audio processing",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "Yoshi Kondo",
+  "license": "MIT"
+}

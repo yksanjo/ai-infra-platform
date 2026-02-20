@@ -1,0 +1,9 @@
+{
+  "name": "@ai-infra/reinforcement-learning-api",
+  "version": "1.0.0",
+  "description": "api for reinforcement-learning - RL training and deployment",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "Yoshi Kondo",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@ai-infra/model-compression",
+  "version": "1.0.0",
+  "description": "Model optimization and compression",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "keywords": ["ai", "infrastructure", "model-compression"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}

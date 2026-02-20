@@ -1,0 +1,9 @@
+{
+  "name": "@ai-infra/anomaly-detection-pipelines",
+  "version": "1.0.0",
+  "description": "pipelines for anomaly-detection - Anomaly detection systems",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "Yoshi Kondo",
+  "license": "MIT"
+}

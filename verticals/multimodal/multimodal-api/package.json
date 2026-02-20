@@ -1,0 +1,9 @@
+{
+  "name": "@ai-infra/multimodal-api",
+  "version": "1.0.0",
+  "description": "api for multimodal - Multimodal AI systems",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "Yoshi Kondo",
+  "license": "MIT"
+}

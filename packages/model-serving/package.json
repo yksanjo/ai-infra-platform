@@ -1,0 +1,19 @@
+{
+  "name": "@ai-infra/model-serving",
+  "version": "1.0.0",
+  "description": "Model serving and inference optimization",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["ai", "infrastructure", "model-serving", "ml"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/ai-infra-platform/tree/main/packages/model-serving"
+  }
+}

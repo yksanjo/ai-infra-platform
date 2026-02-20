@@ -1,0 +1,9 @@
+{
+  "name": "@ai-infra/computer-vision-sdk",
+  "version": "1.0.0",
+  "description": "sdk for computer-vision - CV models and image processing",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "Yoshi Kondo",
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@ai-infra/recommendation-api",
+  "version": "1.0.0",
+  "description": "api for recommendation - Recommendation systems",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "Yoshi Kondo",
+  "license": "MIT"
+}

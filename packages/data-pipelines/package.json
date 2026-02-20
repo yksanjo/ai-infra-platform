@@ -1,0 +1,19 @@
+{
+  "name": "@ai-infra/data-pipelines",
+  "version": "1.0.0",
+  "description": "ETL and data processing pipelines for AI",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["ai", "infrastructure", "data-pipelines", "ml"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/ai-infra-platform/tree/main/packages/data-pipelines"
+  }
+}

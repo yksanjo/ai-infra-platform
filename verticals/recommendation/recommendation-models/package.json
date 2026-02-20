@@ -1,0 +1,9 @@
+{
+  "name": "@ai-infra/recommendation-models",
+  "version": "1.0.0",
+  "description": "models for recommendation - Recommendation systems",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "Yoshi Kondo",
+  "license": "MIT"
+}

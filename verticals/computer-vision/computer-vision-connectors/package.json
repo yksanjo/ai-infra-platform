@@ -1,0 +1,9 @@
+{
+  "name": "@ai-infra/computer-vision-connectors",
+  "version": "1.0.0",
+  "description": "connectors for computer-vision - CV models and image processing",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "Yoshi Kondo",
+  "license": "MIT"
+}
