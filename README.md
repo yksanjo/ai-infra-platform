@@ -1,5 +1,12 @@
 # ai-infra-platform
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/ai-infra-platform/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/ai-infra-platform/actions)
+![License](https://img.shields.io/github/license/yksanjo/ai-infra-platform)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/ai-infra-platform)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/ai-infra-platform)
+
 ## Detailed Description
 
 ai-infra-platform is maintained as an industry-grade software project with production-ready engineering practices.  
